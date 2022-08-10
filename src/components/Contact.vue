@@ -34,7 +34,7 @@
     </div>
   </section>
   <div class="text-center">
-    <h1 class="pb-10"> Made with ❤ by Ralf | Copyright © {{ new Date().getFullYear() }} </h1>
+    <h1 class="pb-10"> Made with ❤ by Ralf | © {{ new Date().getFullYear() }} </h1>
   </div>
 </template>
 

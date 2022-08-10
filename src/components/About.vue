@@ -19,7 +19,7 @@
                   <br>
                   <span class="font-medium text-gray-500">CoreProc Inc.</span>
                   <br>
-                  <span class="font-medium text-gray-500">October 2019 - Present</span>
+                  <span class="font-medium text-gray-500">October 2019 - April 2022</span>
                 </div>
               </li>
               <li class="flex items-center py-2 space-x-4 xl:py-3">
