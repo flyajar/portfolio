@@ -1,6 +1,7 @@
 {
   "name": "portfolio-web-vue",
   "version": "0.0.0",
+  "homepage": "https://flyajar.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
