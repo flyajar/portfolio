@@ -15,7 +15,7 @@
               <li class="flex items-center py-2 space-x-4 xl:py-3">
                 <img src="/images/phone.png" alt="phone" class="w-10 h-10">
                 <div>
-                  <span class="font-medium text-md text-gray-500">+63 927 158 9510</span>
+                  <span class="font-medium text-md text-gray-500">+63 967 231 1716</span>
                 </div>
               </li>
               <li class="flex items-center py-2 space-x-4 xl:py-3">

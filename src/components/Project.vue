@@ -30,8 +30,8 @@
             </p></div>
 
           <div class="flex border-t border-gray-200 divide-x divide-gray-200">
-            <a href="https://purego.herokuapp.com/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
-              Visit
+            <a href="https://github.com/flyajar/purego" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
+              View Code
             </a>
           </div>
         </div>
@@ -44,8 +44,8 @@
             </p></div>
 
           <div class="flex border-t border-gray-200 divide-x divide-gray-200">
-            <a href="https://memotrack.herokuapp.com/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
-              Visit
+            <a href="https://github.com/flyajar/memotrack" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
+              View Code
             </a>
           </div>
         </div>

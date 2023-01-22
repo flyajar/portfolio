@@ -12,6 +12,27 @@
               A web developer proficient in both backend and frontend development. I specialize in developing responsive web pages and RESTful APIs.
             </p>
             <ul>
+              <h2 class="mb-1 font-medium text-xl tracking-tight text-indigo-600 tracking-tight">Work Experience</h2>
+              <li class="flex items-center py-2 space-x-4 xl:py-3">
+                <img src="/images/it.gif" alt="it developer" class="w-12 h-12">
+                <div>
+                  <span class="font-medium text-gray-500">PHP Laravel Developer</span>
+                  <br>
+                  <span class="font-medium text-gray-500">Payo Asia</span>
+                  <br>
+                  <span class="font-medium text-gray-500">September 2022 - Present</span>
+                </div>
+              </li>
+              <li class="flex items-center py-2 space-x-4 xl:py-3">
+                <img src="/images/it.gif" alt="it developer" class="w-12 h-12">
+                <div>
+                  <span class="font-medium text-gray-500">PHP Developer</span>
+                  <br>
+                  <span class="font-medium text-gray-500">Freelance</span>
+                  <br>
+                  <span class="font-medium text-gray-500">April 2022 - August 2022</span>
+                </div>
+              </li>
               <li class="flex items-center py-2 space-x-4 xl:py-3">
                 <img src="/images/it.gif" alt="it developer" class="w-12 h-12">
                 <div>
@@ -22,6 +43,7 @@
                   <span class="font-medium text-gray-500">October 2019 - April 2022</span>
                 </div>
               </li>
+              <h2 class="mb-1 font-medium text-xl tracking-tight text-indigo-600 tracking-tight">Education</h2>
               <li class="flex items-center py-2 space-x-4 xl:py-3">
                 <img src="/images/book.gif" alt="bookr" class="w-12 h-12">
                 <div>
