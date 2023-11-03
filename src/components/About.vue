@@ -26,16 +26,6 @@
               <li class="flex items-center py-2 space-x-4 xl:py-3">
                 <img src="/images/it.gif" alt="it developer" class="w-12 h-12">
                 <div>
-                  <span class="font-medium text-gray-500">PHP Developer</span>
-                  <br>
-                  <span class="font-medium text-gray-500">Freelance</span>
-                  <br>
-                  <span class="font-medium text-gray-500">April 2022 - August 2022</span>
-                </div>
-              </li>
-              <li class="flex items-center py-2 space-x-4 xl:py-3">
-                <img src="/images/it.gif" alt="it developer" class="w-12 h-12">
-                <div>
                   <span class="font-medium text-gray-500">Junior PHP Developer</span>
                   <br>
                   <span class="font-medium text-gray-500">CoreProc Inc.</span>
