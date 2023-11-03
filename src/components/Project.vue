@@ -55,7 +55,7 @@
           <div class="flex flex-col items-center justify-center p-10">
 <!--            <img class="w-16 h-16 mb-6 rounded-full" src="/images/logos/rocket.png">-->
             <h2 class="text-lg font-medium text-indigo-500">Subsidian</h2>
-            <p class="text-gray-800">A simple static site made
+            <p class="text-gray-800">A simple static site made with HTML, CSS and JavaScript
             </p>
           </div>
 
